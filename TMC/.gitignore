@@ -1,0 +1,16 @@
+# ParaView / VTK data outputs
+*.vtu
+*.vtp
+*.vtr
+*.vts
+*.vti
+*.pvtu
+*.pvtp
+*.pvts
+*.pvtr
+*.pvti
+*.pvd
+*.vtk
+
+# ParaView state files (optional, if you prefer not to track saved sessions)
+*.pvsm
